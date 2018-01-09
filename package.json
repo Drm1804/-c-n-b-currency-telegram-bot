@@ -1,0 +1,16 @@
+{
+  "name": "0001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.4.19",
+    "node-telegram-bot-api": "^0.30.0",
+    "node-xml2json": "^1.0.0"
+  }
+}
